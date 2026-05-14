@@ -18,5 +18,5 @@
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)  
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muneeb-ahmed-027950393)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:munusyed785@gmail.com)
